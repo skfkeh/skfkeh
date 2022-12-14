@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <br>For more information about me, click here.
 
 Tools and Webpages<br>
-Tools : Python SQL C# Java<br>
-GitHub : https://github.com/skfkeh<br>
-Blog
+**Tools** : Python SQL C# Java<br>
+**GitHub** : https://github.com/skfkeh<br>
+**Blog**
  - Tistory : https://watsons-dataengineering.tistory.com/
  - Notion : https://www.notion.so/Who-am-I-e030d04ab26c48aca2f580e236caa13d
 ---
