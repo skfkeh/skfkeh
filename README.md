@@ -15,14 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🙋🏻 About Me
+### 🙋🏻 About Me
 
 
 
 
-## 💪 Skill
+### 💪 Skill
 
 
 
-## 🛠 Tool
-<img src="https://img.shields.io/badge/Github-#000000?style=flat-square&logo=Github&logoColor=white"/>
+### 🛠 Tool
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/>
