@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--☁️ I’m a MS student in Artificial Intelligence at Yonsei University.
 📃 I’m interested in Dialogue Agent, Machine Reasoning, Natural Language Processing.-->
 📩 How to reach me: skfkeh0512@naver.com  or  skfkeh0512@gmail.com
-For more information about me, click here.
+<br>For more information about me, click here.
 
-Tools and Webpages
-Tools : Python SQL C# Java
-GitHub : https://github.com/skfkeh
+Tools and Webpages<br>
+Tools : Python SQL C# Java<br>
+GitHub : https://github.com/skfkeh<br>
 Blog
  - Tistory : https://watsons-dataengineering.tistory.com/
  - Notion : https://www.notion.so/Who-am-I-e030d04ab26c48aca2f580e236caa13d
